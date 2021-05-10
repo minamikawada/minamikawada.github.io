@@ -4,6 +4,7 @@ title = "My New Hugo Site"
 theme = "hugo-identity-theme"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap" ]
+publishDir = "docs"
 [taxonomies]
 tag = "tags"
 
