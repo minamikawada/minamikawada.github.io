@@ -1,4 +1,4 @@
-baseURL = "https://USERNAME.github.io"
+baseURL = "https://minamikawada.github.io"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "hugo-identity-theme"
