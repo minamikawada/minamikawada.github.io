@@ -1,7 +1,7 @@
 baseURL = "https://minamikawada.github.io"
 languageCode = "ja"
 title = "My New Hugo Site"
-theme = "hugo-identity-theme"
+hugo-themes = "hugo-identity-theme"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap" ]
 publishDir = "docs"
