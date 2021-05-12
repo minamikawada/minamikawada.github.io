@@ -5,7 +5,6 @@ hugo-themes = "hugo-identity-theme"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap" ]
 publishDir = "docs"
-publishDir = "article"
 [taxonomies]
 tag = "tags"
 
